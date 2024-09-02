@@ -25,6 +25,10 @@ body {
 }
 
 nav{
+   position: fixed;
+   left: 0;
+   top: 0;
+   right: 0;
    padding: 20px 80px;
    height: 70px;
    background-color: var(--color-1);
@@ -526,7 +530,7 @@ nav svg{
    }
    .close-sidebar-button{
        position: relative;
-       top: -22rem;
+       top: -25rem;
    }
 
    /* hero section start */
