@@ -120,11 +120,11 @@ nav svg{
    } 
    .open-sidebar-button{
        position: fixed;
-       right: 90px;
+       right: 10rem;
    }
    .close-sidebar-button{
        position: relative;
-       top: -14rem;
+       top: -12rem;
    }
    .open-sidebar-button,.close-sidebar-button {
        padding:  20px;
