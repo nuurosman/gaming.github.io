@@ -520,6 +520,14 @@ nav svg{
 /* Footer section end */
 /* Media screen size <575 */
 @media only screen and (max-width:575px) {
+   .open-sidebar-button{
+       position: fixed;
+       right: 80px;
+   }
+   .close-sidebar-button{
+       position: relative;
+       top: -22rem;
+   }
 
    /* hero section start */
    .main-container {
